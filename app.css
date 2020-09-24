@@ -26,12 +26,12 @@ a{
 a:hover{
     color: black;
 }
-a:active{
+/* a:active{
 
 }
 a:visited{
 
-}
+} */
 .nav-links {
   display: flex;
   list-style: none;
